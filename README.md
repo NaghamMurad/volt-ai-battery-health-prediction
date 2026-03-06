@@ -1,4 +1,4 @@
-# volt-ai-battery-health-prediction
+# Vault AI
 
 Vault AI is a machine learning framework developed to predict the State of Health (SOH) and Remaining Useful Life (RUL) of lithium-ion batteries used in electric vehicles.
 
@@ -8,9 +8,7 @@ Vault AI is a machine learning framework developed to predict the State of Healt
 - Compare baseline ML models with recent research approaches
 
 ## Models Used
-- Linear Regression
 - Random Forest
-- Support Vector Regression (SVR)
 - XGBoost
 
 ## Datasets
